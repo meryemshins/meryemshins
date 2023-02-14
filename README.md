@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Meryem 👋
 
 <!--
 **meryemshins/meryemshins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on graduation project
+- 🌱 I’m currently learning image processing
+- 💬 Ask me about anything
+- 📫 How to reach me: meryemshins@gamil.com
+- 😄 Pronouns: she
+
+### 📩Connect with me:
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/meryemshins/) 
+
+
